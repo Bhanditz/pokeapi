@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "A RESTful api for pokemon data",
   "dependencies": {
-    "browser-sync": "^2.10.1",
+    "browser-sync": "^3.0.0",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-cssnano": "^2.0.0",
